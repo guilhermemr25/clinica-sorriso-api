@@ -6,12 +6,12 @@
 
 body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: #ffeaf0;
+    background-color: #b8d7ff;
 }
 
 header {
-    background-color: #f26284;
-    color: white;
+    background-color: #011b45;
+    color: #ffffff;
     padding: 20px;
     margin-bottom: 10px;
     display: flex;
@@ -34,21 +34,21 @@ li {
 }
 
 a:link {
-    color: #ffeaf0;
+    color: #ffffff;
     text-decoration: none;
 }
 
 a:visited {
-    color: #ffeaf0;
+    color: #ffffff;
 }
 
 a:hover {
-    color: #fff;
+    color: #b8d7ff;
     font-weight: 500;
 }
 
 #cabecalho p {
-    color: #ffeaf0;
+    color: #b8d7ff;
 }
 
 main {
@@ -60,11 +60,11 @@ main {
     flex-direction: row;
     gap: 30px;
     padding: 20px;
-    background-color: #ffbece;
+    background-color: #98c5ff;
     color: white;
     align-items: center;
     justify-content: space-between;
-    border: 2px solid #f26085;
+    border: 2px solid #011b45;
 }
 
 #banner h2 {
@@ -79,7 +79,7 @@ main {
 #enunciado {
     margin-top: 20px;
     font-weight: bold;
-    color: #f26284
+    color: #011b45
 }
 
 #servicos {
@@ -91,13 +91,13 @@ main {
 }
 
 .servico {
-    background-color: #ffbece;
+    background-color: #b8d7ff;
     color: white;
     padding: 15px;
     width: 32%;
     border-radius: 0px;
     text-align: center;
-    border: 2px solid #f26085;
+    border: 2px solid #011b45;
 }
 
 .servico img {
@@ -117,8 +117,8 @@ main {
 }
 
 footer {
-    background-color: #f26284;
-    color: #ffeaf0;
+    background-color: #011b45;
+    color: #ffffff;
     padding: 20px;
     display: flex;
     justify-content: space-between;
