@@ -60,7 +60,7 @@ main {
     flex-direction: row;
     gap: 30px;
     padding: 20px;
-    background-color: #98c5ff;
+    background-color: #7cb3fb;
     color: white;
     align-items: center;
     justify-content: space-between;
@@ -91,7 +91,7 @@ main {
 }
 
 .servico {
-    background-color: #98c5ff;
+    background-color: #7cb3fb;
     color: white;
     padding: 15px;
     width: 32%;
